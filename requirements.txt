@@ -1,0 +1,10 @@
+datasets
+pandas
+numpy
+scikit-learn
+shap
+streamlit
+joblib
+matplotlib
+seaborn
+Category_Encoders
